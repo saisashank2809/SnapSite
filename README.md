@@ -3,7 +3,11 @@
 
 **SnapSite Pro** is a high-performance web cloning and asset extraction engine. It transforms any URL into a structured, production-ready codebase in seconds, siphoning HTML, CSS, JavaScript, and media assets into an organized local development environment.
 
+<<<<<<< HEAD
 ![SnapSite Pro UI](https://raw.githubusercontent.com/saisashank2809/SnapSite/main/client/public/screenshot.png) *(Placeholder for your screenshot)*
+=======
+![SnapSite Pro UI](https://raw.githubusercontent.com/saisashank2809/SnapSite/main/client/public/screenshot.png) 
+>>>>>>> 24731687bbd7cee062d8aea01257e1c41c956561
 
 ## ✨ Features
 - **Deep Siphoning**: Extracts full-page assets (HTML5, CSS3, JS, Fonts, Images).
