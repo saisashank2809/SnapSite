@@ -50,4 +50,4 @@ The client will run on `http://localhost:5173`.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Built with ❤️ for developers by [SnapSite Pro](https://github.com/saisashank2809/SnapSite)
+Built with ❤️ for developers by [Sai Sashank](https://github.com/saisashank2809/SnapSite)
